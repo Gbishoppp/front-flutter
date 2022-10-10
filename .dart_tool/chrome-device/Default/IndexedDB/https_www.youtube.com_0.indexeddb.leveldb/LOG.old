@@ -1,0 +1,6 @@
+2022/10/09-18:23:02.706 4038 Creating DB C:\Users\gabri\AppData\Local\Temp\flutter_tools.ddc193db\flutter_tools_chrome_device.5f9fd9b7\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/10/09-18:23:02.710 4038 Reusing MANIFEST C:\Users\gabri\AppData\Local\Temp\flutter_tools.ddc193db\flutter_tools_chrome_device.5f9fd9b7\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/09-20:06:40.335 384 Level-0 table #5: started
+2022/10/09-20:06:40.336 384 Level-0 table #5: 9612 bytes OK
+2022/10/09-20:06:40.338 384 Delete type=0 #3
+2022/10/09-20:06:40.338 384 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
